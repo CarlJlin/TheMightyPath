@@ -21,7 +21,7 @@ public :
 		return true;
 	}
 
-	bool takeDamage(hptype damage) {
+	void takeDamage(hptype damage) {
 		if (damage > CurrentHP) {
 			CurrentHP = 0;
 			return;
@@ -45,6 +45,17 @@ public :
 
 	hptype getMaxHP() {
 		return MaxHP;
+	}
+
+	hp() {
+		CurrentHP = 1;
+		MaxHP = 1;
+	}
+	hp(hptype cHP, hptype mHP) {
+		CurrentHP = cHP;
+		MaxHP = mHP;
+		if (CurrentHP > MaxHP)
+			CurrentHP = MaxHP;
 	}
 
 private:
