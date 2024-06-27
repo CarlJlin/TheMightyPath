@@ -12,7 +12,7 @@ Hello Adventurer, in this game you will be the invocated protagonist and you hav
 ### EXP System
 
 - Gain Stats based on class
--gain abilities based on level and class
+- gain abilities based on level and class
 
 ### Equipments
 
