@@ -2,7 +2,7 @@
 
 Hello Adventurer, in this game you will be the invocated protagonist and you have to form a group, explore, find equipments and fight monsters to progress
 
-### classes
+### Classes
 
 - Knight : Base Attack = 25, Attack growth per level = 5, Base HP = 60, HP growth per level = 6, Base Resistence = 30, Resistence growth per level = 3, Base Mana = 5, Mana growth per level = 2, Base Magic = 5, Magic growth per level = 1, Base Agility = 10, Agility growth per level = 1
 
@@ -24,7 +24,7 @@ Hello Adventurer, in this game you will be the invocated protagonist and you hav
 - Consumables
 - Crafting System (Maybe)
 
-### game loop
+### Game Loop
 
 - Battle System: turn based on agility
 - World levels
