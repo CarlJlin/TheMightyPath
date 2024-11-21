@@ -4,7 +4,7 @@ Hello Adventurer, in this game you will be the invocated protagonist and you hav
 
 Classes:
 
-- Knight
+- Knight:
 
   - Base Attack = 25, Attack growth per level = 5
   - Base HP = 60, HP growth per level = 6
@@ -13,7 +13,7 @@ Classes:
   - Base Magic = 5, Magic growth per level = 1
   - Base Agility = 10, Agility growth per level = 1
 
-- Mage
+- Mage:
 
   - Base Attack = 10, Attack growth per level = 1.5
   - Base HP = 35, HP growth per level = 3.5
@@ -22,7 +22,7 @@ Classes:
   - Base Magic = 40, Magic growth per level = 5
   - Base Agility = 5, Agility growth per level = 1.5
 
-- Cleric
+- Cleric:
 
   - Base Attack = 5, Attack growth per level = 1.5
   - Base HP = 40, HP growth per level = 4
@@ -31,7 +31,7 @@ Classes:
   - Base Magic = 15, Magic growth per level = 3
   - Base Agility = 7, Agility growth per level = 2
 
-- Rogue
+- Rogue:
 
   - Base Attack = 35, Attack growth per level = 6
   - Base HP = 45, HP growth per level = 5
@@ -40,17 +40,17 @@ Classes:
   - Base Magic = 3, Magic growth per level = 1
   - Base Agility = 25, Agility growth per level = 3
 
-- EXP System :
+- EXP System:
   - Gain Stats based on class
   - Gain abilities based on level and class
 
-- Equipments
+- Equipments:
   - Shop System
   - Loots
   - Consumables
   - Crafting System (Maybe)
 
-- Game Loop
+- Game Loop:
   - Battle System: turn based on agility
   - World levels
   - Different creatures/monsters
