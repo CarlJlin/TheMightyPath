@@ -66,7 +66,7 @@ Choose your path! Each class has unique strengths and growth patterns:
   - Different creatures/monsters
   - Different NPCs
 
- - Game Features
+ - Game Features:
   - EXP System
   - Gain stats and abilities based on your class and level.
   - Equipment
@@ -76,7 +76,7 @@ Choose your path! Each class has unique strengths and growth patterns:
   - Battles are turn-based, with agility determining the order of actions.
   - Face off against a variety of monsters with unique abilities.
 
-- Exploration
+- Exploration:
   - Explore a world filled with diverse levels, NPCs, and hidden treasures.
   - Roadmap (Optional)
 
@@ -86,7 +86,7 @@ Choose your path! Each class has unique strengths and growth patterns:
   - Expanded Storyline and Quests
 
 
-- How to Play
+- How to Play:
   - Choose your class.
   - Form your team and explore the world.
   - Battle monsters, gain EXP, and level up.
