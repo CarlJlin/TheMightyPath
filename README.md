@@ -1,44 +1,54 @@
 # TheMightyPath
 
-Hello Adventurer, in this game you will be the invocated protagonist and you have to form a group, explore, find equipments and fight monsters to progress
+Welcome, Adventurer!
 
-Classes:
+In The Mighty Path, you are the chosen protagonist tasked with forming a group of companions, exploring unknown lands, finding powerful equipment, and battling fearsome monsters. Progress through the game by leveling up, mastering skills, and uncovering the mysteries of this vast world.
 
-- Knight:
+Choose your path! Each class has unique strengths and growth patterns:
 
-  - Base Attack = 25, Attack growth per level = 5
-  - Base HP = 60, HP growth per level = 6
-  - Base Resistence = 30, Resistence growth per level = 3
-  - Base Mana = 7, Mana growth per level = 3
-  - Base Magic = 5, Magic growth per level = 1
-  - Base Agility = 10, Agility growth per level = 1
+- Knight
+  A sturdy warrior with balanced stats and strong defenses.
 
-- Mage:
+- Base Stats:
+  - Attack: 25 (Growth: +5/level)
+  - HP: 60 (Growth: +6/level)
+  - Resistance: 30 (Growth: +3/level)
+  - Mana: 7 (Growth: +3/level)
+  - Magic: 5 (Growth: +1/level)
+  - Agility: 10 (Growth: +1/level)
 
-  - Base Attack = 10, Attack growth per level = 1.5
-  - Base HP = 35, HP growth per level = 3.5
-  - Base Resistence = 12, Resistence growth per level = 1.5
-  - Base Mana = 50, Mana growth per level = 6
-  - Base Magic = 40, Magic growth per level = 5
-  - Base Agility = 5, Agility growth per level = 1.5
+-Mage
+  A master of spells and mana. Deals devastating magical damage.
 
-- Cleric:
+- Base Stats:
+  - Attack: 10 (Growth: +1.5/level)
+  - HP: 35 (Growth: +3.5/level)
+  - Resistance: 12 (Growth: +1.5/level)
+  - Mana: 50 (Growth: +6/level)
+  - Magic: 40 (Growth: +5/level)
+  - Agility: 5 (Growth: +1.5/level)
 
-  - Base Attack = 5, Attack growth per level = 1.5
-  - Base HP = 40, HP growth per level = 4
-  - Base Resistence = 15, Resistence growth per level = 2
-  - Base Mana = 60, Mana growth per level = 10
-  - Base Magic = 15, Magic growth per level = 3
-  - Base Agility = 7, Agility growth per level = 2
+- Cleric
+  A divine healer with powerful magic support abilities.
 
-- Rogue:
+- Base Stats:
+  - Attack: 5 (Growth: +1.5/level)
+  - HP: 40 (Growth: +4/level)
+  - Resistance: 15 (Growth: +2/level)
+  - Mana: 60 (Growth: +10/level)
+  - Magic: 15 (Growth: +3/level)
+  - Agility: 7 (Growth: +2/level)
 
-  - Base Attack = 35, Attack growth per level = 6
-  - Base HP = 45, HP growth per level = 5
-  - Base Resistence = 25, Resistence growth per level = 2
-  - Base Mana = 4, Mana growth per level = 2
-  - Base Magic = 3, Magic growth per level = 1
-  - Base Agility = 25, Agility growth per level = 3
+- Rogue
+  A swift and agile fighter with deadly precision.
+
+- Base Stats:
+  - Attack: 35 (Growth: +6/level)
+  - HP: 45 (Growth: +5/level)
+  - Resistance: 25 (Growth: +2/level)
+  - Mana: 4 (Growth: +2/level)
+  - Magic: 3 (Growth: +1/level)
+  - Agility: 25 (Growth: +3/level)
 
 - EXP System:
   - Gain Stats based on class
@@ -55,3 +65,34 @@ Classes:
   - World levels
   - Different creatures/monsters
   - Different NPCs
+
+ - Game Features
+  - EXP System
+  - Gain stats and abilities based on your class and level.
+  - Equipment
+  - Visit shops, collect loot, and craft powerful gear.
+  - Manage consumables to survive tough battles.
+  - Turn-Based Battle System
+  - Battles are turn-based, with agility determining the order of actions.
+  - Face off against a variety of monsters with unique abilities.
+
+- Exploration
+  - Explore a world filled with diverse levels, NPCs, and hidden treasures.
+  - Roadmap (Optional)
+
+- Planned Features:
+  - Crafting System (Coming Soon!)
+  - New Monsters and NPCs
+  - Expanded Storyline and Quests
+
+
+- How to Play
+  - Choose your class.
+  - Form your team and explore the world.
+  - Battle monsters, gain EXP, and level up.
+  - Collect and manage equipment and consumables.
+  - Progress through increasingly difficult levels.
+ 
+
+
+Feel free to clone the repository and join the adventure! Contributions and feedback are welcome.
