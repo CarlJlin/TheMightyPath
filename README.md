@@ -66,7 +66,7 @@ Choose your path! Each class has unique strengths and growth patterns:
   - Different creatures/monsters
   - Different NPCs
 
- - Game Features:
+- Game Features:
   - EXP System
   - Gain stats and abilities based on your class and level.
   - Equipment
