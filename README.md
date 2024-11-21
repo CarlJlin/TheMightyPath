@@ -17,7 +17,7 @@ Choose your path! Each class has unique strengths and growth patterns:
   - Magic: 5 (Growth: +1/level)
   - Agility: 10 (Growth: +1/level)
 
--Mage
+- Mage
   A master of spells and mana. Deals devastating magical damage.
 
 - Base Stats:
